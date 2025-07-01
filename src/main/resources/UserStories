@@ -1,0 +1,15 @@
+As a Admin, I want to register a new customer and open a bank account immediately after registration so that the customer can start using banking services.
+
+As a customer, I want to deposit money into my account so that I can increase my balance.
+
+As a customer, I want to withdraw money from my account so that I can access my funds when needed.
+
+As a Customer, I want to add transactions to my account.
+
+As a Customer, I want to view all past transactions on my account so that I can track my financial activity.
+
+As a Customer, I want to view the current balance of my account so that I know how much money I have available.
+
+As a Admin, I want to close customer's bank account so that it can be deactivated when I no longer need it.
+
+As a Admin, I want to fetch customer's details so that their account information remains accurate.
