@@ -95,5 +95,5 @@ cd bank-management-system
 This project is licensed under the MIT License. Feel free to fork, clone, or contribute!
 
 **👨‍💻 Made with ❤️ by**
-Chandan Kolloju
-📧 Email: kollojuchandan123@gmail.com
+- Chandan Kolloju
+- 📧 Email: kollojuchandan123@gmail.com
